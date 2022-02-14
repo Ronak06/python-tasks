@@ -43,7 +43,7 @@ def create_http_task(
     # queue = 'my-queue'
     # location = 'us-central1'
     # url = 'https://example.com/task_handler'
-    # payload = 'hello' or {'param': 'value'} for application/json
+    # payload = 'hello' # or {'param': 'value'} for application/json
     # in_seconds = 180
     # task_name = 'my-unique-task'
     # deadline = 900
